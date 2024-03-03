@@ -19,8 +19,12 @@ Implementation
 Usage
 
 1)The SQL scripts can be executed in any SQL database environment to set up the database schema and triggers.
+
 2)The Python script requires a Python environment for data generation.
+
 3)Tableau files can be viewed using Tableau Desktop or Tableau Public.
 
 Contributions
-This project is open for contributions. Please ensure to follow the contribution guidelines for submitting pull requests.
+
+This project is open for contributions.
+Please ensure to follow the contribution guidelines for submitting pull requests.
